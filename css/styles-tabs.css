@@ -1,0 +1,107 @@
+@charset "UTF-8";
+/* CSS Document */
+
+main {
+    margin: 0px;
+    padding: 0px 0px 10px 0px;
+    width: 100%;
+    min-height: 350px;
+    text-align: center;
+    background-color: #000000;
+    color: #FFFFFF;
+    font-size: 12px;
+}
+main h2  {
+    margin: 10px 0px 5px 0px;
+    padding: 0px;
+    font-size: 16px;
+    color: rgba(0,0,0,1.00);
+}
+main h3 {
+    margin: 15px 0px 0px 0px;
+    padding: 0px;
+    font-size: 15px;
+    color: #000000;
+}
+main p {
+	font-weight: 200px;
+	margin: 5px 0px 5px 0px;
+	padding: 5px 0px 5px 0px;
+	line-height: 20px;
+}
+main ul {
+	margin: 0px;
+	padding: 0px 0px 0px 35px;
+}
+main li {
+	margin: 0px;
+	padding: 5px 0px 5px 0px;
+}
+main img{
+    padding: 0px;
+    margin: 0px;
+
+}
+figure{
+	margin: 5px;
+	padding: 0px;
+	width: 150px;
+	display: inline-block;
+}
+figcaption{
+	font-weight:bold;
+	text-align:center;
+}
+#Tabs1 #tabs-1 img {
+
+}
+#Tabs1 #tabs-2 img {
+
+}
+#Tabs1 #tabs-3 img {
+
+}
+#Tabs1 #tabs-4 img {
+
+}
+#last-div ul li  {
+    list-style-type: none;
+    display: inline-block;
+    text-indent: 10px;
+}
+#last-div h2 {
+    color: #D4AB0C;
+}
+
+#last-div {
+    border-radius: 5px;
+    background-color: #000000;
+    color: #D4AB0C;
+    text-align: center;
+}
+#last-div ul li a {
+    color: #D4AB0C;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+#last-div .inline-style a {
+    text-align: center;
+    color: #D4AB0C;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14pxpx;
+    text-indent: 5px;
+}
+
+#last-div ul li a:hover  {
+    color: #D4AB0C;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+#last-div img {
+    max-width: 300px;
+    text-align: center;
+}
